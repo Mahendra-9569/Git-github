@@ -22,7 +22,7 @@
 }
 <br>
 
-//CLONE- clone a repository on our local macj=hine git clone <link>
+//CLONE- clone a repository on our local machine git clone <link>
 <br>
 {
 <br>
